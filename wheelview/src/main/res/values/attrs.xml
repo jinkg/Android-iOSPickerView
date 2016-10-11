@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelView">
+        <attr name="gravity">
+            <enum name="center" value="0" />
+            <enum name="left" value="-1" />
+            <enum name="right" value="1" />
+        </attr>
+        <attr name="textSize" format="dimension" />
+        <attr name="textColorOut" format="color" />
+        <attr name="textColorCenter" format="color" />
+        <attr name="dividerColor" format="color" />
+    </declare-styleable>
+
+</resources>
