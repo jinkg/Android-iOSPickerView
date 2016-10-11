@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         wheelView.setLabel("K");
         wheelView.setTextSize(30);
         wheelView.setCurrentItem(3);
-//        wheelView.setLoopable(false);
+        wheelView.setLoopable(false);
 
         String[] items = new String[]{"AA", "BB", "CC", "DD",
                 "EE", "FF", "GG", "hh", "ii", "jj", "kk", "ll", "mm", "nn"};
