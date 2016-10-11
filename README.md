@@ -1,6 +1,7 @@
 # Android-iOSPickerView
 A item pick view like iOS
 
+<img src="screenshot/wheel_view_screenshot.png" width="180" height="320">
 
 ## Usage
 
