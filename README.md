@@ -33,3 +33,7 @@ wheelView.setOnItemSelectedListener(new WheelView.OnItemSelectedListener() {
 ```
 
 You can see a complete usage in the demo app.
+
+## Feedback
+
+nilaynij@gmail.com.
