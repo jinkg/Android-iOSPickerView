@@ -1,7 +1,7 @@
 # Android-iOSPickerView
 A item pick view like iOS
 
-<img src="screenshot/wheel_view_screen_record.gif" width="180" height="320">
+<img src="https://github.com/jinkg/Screenshots/blob/master/Android-iOSPickerView/wheel_view_screen_record.gif" width="180" height="320">
 
 ## Usage
 
